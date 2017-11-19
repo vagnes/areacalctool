@@ -6,3 +6,9 @@ Remember to install click with pip.
 ```bash
 pip install click
 ```
+
+Then, run see the options with -h.
+
+```bash
+python areacalctool.py -h
+```
